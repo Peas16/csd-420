@@ -1,0 +1,16 @@
+/* Paul Fralix Assignment M7 CSS File */
+
+
+.whiteBlackStroke {
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: 2px;
+}
+
+#redCircle {
+    -fx-fill: red;
+}
+
+#greenCircle {
+    -fx-fill: green;
+}
